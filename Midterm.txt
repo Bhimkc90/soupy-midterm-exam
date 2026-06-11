@@ -1,0 +1,29 @@
+# Midterm:
+
+Your goal is to recreate the website provided to you in the PDF.
+
+This website will only have the following 3 files:
+- home page (index.html) - text/img content
+- style sheet (styles.css) - style and layout
+- js file (script.js) - make the buttons +/- change the number quantity for the soup item
+
+The hyperlinks can be directed to "www.google.com".
+The images/logos are given to you inside this folder.
+
+
+Colors used here:
+
+Background: #e0ddd7
+Text Color: black
+
+Note: The PDF solution has a white border around the website, which should not be part of your solution. The border is added by the PDF converter, it's not part of the original solution.
+
+Submission:
+Only 1 file is allowed. Zip all your files (+images) and send it through Brightspace.
+
+
+Grading Rubric: 
+ +5 points for proper use of HMTL
++10 points for the css style
+ +5 points for the javascript file
+
